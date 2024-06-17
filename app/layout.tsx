@@ -11,7 +11,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "FinGuard",
-  description: "FinGuard is a modern banking platform for everyone.",
+  description: "FinGuard is a personal finance management app.",
   icons: {
     icon: '/icons/logo.svg'
   }
