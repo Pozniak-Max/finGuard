@@ -1,4 +1,4 @@
-export const dynamic = "force/dynamic";
+export const dynamic = 'force-dynamic'
 
 import type { Metadata } from "next";
 import { Inter, IBM_Plex_Serif } from "next/font/google";
@@ -13,7 +13,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "FinGuard",
-  description: "FinGuard is a personal finance management app.",
+  description: "FinGuard is a personal finance app that helps you manage your money and track your spending.",
   icons: {
     icon: '/icons/logo.svg'
   }
